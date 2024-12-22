@@ -32,7 +32,7 @@ end
 GithubAction --> Firebase
 
 
-ReactApp <-- HTML,CSS,JS --> User["Client(or Browser)"]
+Node.js <-- HTML,CSS,JS --> User["Client(or Browser)"]
 
 User <-- API Request & Response --> Backend["Backend Server"]
 ```
