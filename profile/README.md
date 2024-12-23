@@ -10,10 +10,14 @@
 
 <div align="center">
 
-| **조승연** | **채문성** | 공담형 | 김현희 |
-| --- | --- | --- | --- |
-| [<img src="](https://github.com/layout-SY)https://avatars.githubusercontent.com/u/111514472?v=4" height=150 width=150> <br/> @layout-SY | [<img src="](https://github.com/chaesunbak)https://avatars.githubusercontent.com/u/152577867?v=4" height=150 width=150> <br/> @chaesunbak | [img src="](https://github.com/chaesunbak)[https://avatars.githubusercontent.com](https://avatars.githubusercontent.com/u/152577867?v=4)/damhyeong” /> | https://avatars.githubusercontent.com/Kim-Hyunhee |
-| 프론트엔드 | 프론트엔드 | 백엔드 | 백엔드 |
+## Team
+
+|<img src="https://avatars.githubusercontent.com/u/111514472?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/152577867?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/114223031?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/96518301?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|
+|Cho SeungYeon<br/>[@layout-SY](https://github.com/layout-SY)|[@chaesunbak](https://github.com/chaesunbak)|damhyeong<br/>[@damhyeong](https://github.com/damhyeong)|[@Kim-Hyunhee](https://github.com/Kim-Hyunhee)|
+|프론트엔드|프론트엔드|백엔드|백엔드|
+
+
 
 </div>
 
