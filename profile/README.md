@@ -1,6 +1,59 @@
-## Hi there 👋
+# 📖 Link Up
 
-## 프론트엔드 서비스 흐름도
+![image](https://github.com/user-attachments/assets/3eb77613-171f-465f-a347-258759ff4e6d)
+
+- 코딩 스터디부터 러닝 크루까지 다양한 모임을 만들고 찾을 수 있는 서비스입니다.
+- 프로젝트 기간 : 24년 12월 6일(금) ~ 24년 12월 23일(월) (약 2주)
+
+
+## 1. 팀원 구성
+
+<div align="center">
+
+| **조승연** | **채문성** | 공담형 | 김현희 |
+| --- | --- | --- | --- |
+| [<img src="](https://github.com/layout-SY)https://avatars.githubusercontent.com/u/111514472?v=4" height=150 width=150> <br/> @layout-SY | [<img src="](https://github.com/chaesunbak)https://avatars.githubusercontent.com/u/152577867?v=4" height=150 width=150> <br/> @chaesunbak | [img src="](https://github.com/chaesunbak)[https://avatars.githubusercontent.com](https://avatars.githubusercontent.com/u/152577867?v=4)/damhyeong” /> | https://avatars.githubusercontent.com/Kim-Hyunhee |
+| 프론트엔드 | 프론트엔드 | 백엔드 | 백엔드 |
+
+</div>
+
+## 2. 역할 분담
+
+### 🍊 조승연
+
+- 유저 페이지
+- 글, 댓글 페이지
+
+### 👻 채문성
+
+- 모임찾기, 모임 상세보기 페이지
+- 반응형 레이아웃
+
+### 🌝 공담형
+
+- 유저 CRUD API 제작
+- CI / CD 제작
+- AWS 인프라 관리
+
+### 😎 김현희
+
+- 모임, 게시글, 댓글 CRUD API 제작
+
+<br>
+
+## 3. 기술스택
+
+프론트엔드 : React.js, Vite, TailwindCSS, TypeScript, Zustand
+
+백엔드 : Nest.js, Typeorm, MySQL2, JWT
+
+협업 : Slack, Notion
+
+배포 : GitHub, GitHubActions, AWS EC2, Firebase Hosting
+
+
+
+## 4. 프론트엔드 서비스 흐름도
 
 ```mermaid
 flowchart BT
@@ -39,7 +92,7 @@ User <-- API Request & Response --> Backend["Backend Server"]
 
 <br/>
 
-## 백엔드 배포 전략
+## 5. 백엔드 서비스 흐름도
 
 ```mermaid
 flowchart TB
