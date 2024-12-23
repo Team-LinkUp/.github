@@ -63,8 +63,15 @@
 
 
 
-## 4. 프론트엔드 서비스 흐름도
+## 4. 서비스 흐름도
 
+<img width="686" alt="스크린샷 2024-12-23 오전 10 49 36" src="https://github.com/user-attachments/assets/95ed7b87-98fe-405a-97a1-d913668a7a60" /> <img width="577" alt="스크린샷 2024-12-23 오전 10 49 53" src="https://github.com/user-attachments/assets/04921046-d560-463b-ac7f-cb5231225492" />
+
+
+<details>
+<summary>프론트엔드 서비스 흐름도</summary>
+
+<!-- summary 아래 한칸 공백 두어야함 -->
 ```mermaid
 flowchart BT
     
@@ -100,10 +107,13 @@ Node.js <-- HTML,CSS,JS --> User["Client(or Browser)"]
 User <-- API Request & Response --> Backend["Backend Server"]
 ```
 
-<br/>
+</details>
 
-## 5. 백엔드 서비스 흐름도
 
+<details>
+<summary>백엔드 서비스 흐름도</summary>
+
+<!-- summary 아래 한칸 공백 두어야함 -->
 ```mermaid
 flowchart TB
     
@@ -153,11 +163,9 @@ end
 
 GithubAction --> PM2
 
-FrontEnd("웹 사이트")
-
-Route53 <----> FrontEnd
+Route53 <----> Client
 ```
-
+</details>
 
 
 
