@@ -5,6 +5,11 @@
 - 코딩 스터디부터 러닝 크루까지 다양한 모임을 만들고 찾을 수 있는 서비스입니다.
 - 프로젝트 기간 : 24년 12월 6일(금) ~ 24년 12월 23일(월) (약 2주)
 
+[프로젝트 깃허브](https://github.com/Team-LinkUp)
+[프론트 깃허브](https://github.com/chaesunbak/study-matcher-frontend)
+[백엔드 깃허브](https://github.com/damhyeong/Programmers_TeamRepo)
+[팀 노션 페이지](https://www.notion.so/Link-Up-2882ea41fbc64059970ebd5e8e3962c2?pvs=4)
+
 
 ## 1. 팀원 구성
 
