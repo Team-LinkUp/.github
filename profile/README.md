@@ -107,21 +107,6 @@ User <-- API Request & Response --> Backend["Backend Server"]
 ```mermaid
 flowchart TB
     
-subgraph Local1 ["로컬 컴퓨터"]
-    direction RL
-    Local-branch-main1("Branch main")
-    Local-branch-feat1("Branch feat")
-    
-    Local-branch-main1 --> Local-branch-feat1
-end
-subgraph Local2 ["로컬 컴퓨터"]
-    direction LR
-    Local-branch-main2("Branch main")
-    Local-branch-feat2("Branch feat")
-
-    Local-branch-main2 --> Local-branch-feat2
-end
-
 subgraph GitHubRepo ["GitHub"]
     direction BT
     subgraph feature ["Feature Branch"]
@@ -133,9 +118,6 @@ subgraph GitHubRepo ["GitHub"]
     
     feature -- Pull Request --> Github-Branch-main
 end
-
-Local1 --- feature
-Local2 --- feature
 
 subgraph GithubAction ["Github Actions"]
     direction TB
