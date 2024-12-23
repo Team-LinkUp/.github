@@ -60,9 +60,6 @@
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
 
-
-
-
 ## 4. 서비스 흐름도
 
 <img width="686" alt="스크린샷 2024-12-23 오전 10 49 36" src="https://github.com/user-attachments/assets/95ed7b87-98fe-405a-97a1-d913668a7a60" /> <img width="577" alt="스크린샷 2024-12-23 오전 10 49 53" src="https://github.com/user-attachments/assets/04921046-d560-463b-ac7f-cb5231225492" />
@@ -168,7 +165,11 @@ Route53 <----> Client
 </details>
 
 
+## 5. 주요 기능
 
+## 6. 트러블 슈팅
+
+## 7. 회고
 
 
 
