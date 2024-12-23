@@ -179,11 +179,13 @@ Route53 <----> Client
 - 모임 찾기 기능 : 주제와 키워드별로 원하는 모임을 찾을 수 있어요.
 <img width="200" alt="스크린샷 2024-12-23 오전 11 54 19" src="https://github.com/user-attachments/assets/5381ab82-5c1d-43c3-b518-03e79a1cc176" />
 
+- 모임 생성 기능 : 내 모임을 만들 수 있어요.
+<img width="200" alt="스크린샷 2024-12-23 오후 12 19 54" src="https://github.com/user-attachments/assets/220f6f1b-1869-46f1-905a-0a14a22e41e4" />
+
 - 모임 찾기 기능 : 원하는 모임에 참여할 수 있어요.
 <img width="200" alt="스크린샷 2024-12-23 오전 11 54 53" src="https://github.com/user-attachments/assets/564f51c4-909b-4702-80d1-57f771431f6c" />
 
 - 모임 게시판 기능 : 모임 게시판에 글과 댓글을 남길 수 있어요.
-
 <img width="200" alt="스크린샷 2024-12-23 오전 11 56 28" src="https://github.com/user-attachments/assets/ad220367-6edd-45b7-93c4-cec5eee45798" />
 
 - 내 정보 관리 기능 : 내 정보를 관리할 수 있어요
